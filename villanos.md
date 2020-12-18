@@ -3,3 +3,4 @@
 - Joker
 - Red Skull
 - Lex Luthor
+- Doomsday
