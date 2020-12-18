@@ -9,3 +9,4 @@
 - Luigi
 - Dr. Slump
 - Arale
+- Elon Musk
