@@ -7,3 +7,4 @@
 - Suprunaman
 - Mario Bros
 - Luigi
+- Dr. Slump
