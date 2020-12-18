@@ -4,3 +4,4 @@
 - Batman
 - Capitan America
 - Spiderman
+- Suprunaman
