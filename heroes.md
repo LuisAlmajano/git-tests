@@ -6,3 +6,4 @@
 - Spiderman
 - Suprunaman
 - Mario Bros
+- Luigi
