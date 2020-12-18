@@ -10,5 +10,4 @@
 - Dr. Slump
 - Arale
 - Elon Musk
-- Bill Gates
 - Zorro
