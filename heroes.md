@@ -8,3 +8,4 @@
 - Mario Bros
 - Luigi
 - Dr. Slump
+- Arale
