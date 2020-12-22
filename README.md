@@ -35,6 +35,7 @@ Listar repositorio remoto (útil para verificar si la connexión es via HTTPS o 
 > git remote -v
 
 origin  https://your_server/your_user_name/your_project_name.git (fetch)
+
 origin  https://your_server/your_user_name/your_project_name.git (push)
 
 
