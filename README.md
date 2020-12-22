@@ -9,10 +9,12 @@ Inicializar repositorio local:
 
 Incluir fichero(s) al stage
 > git add .
+
 > git add <fichero>
 
 Commit de los cambios
 > git commit -m "Mensaje commit"
+
 > git commit -am "Mensaje commit" Nota: Este comando nos permite subir al stage y hacer commit.
 
 
@@ -21,7 +23,9 @@ Commit de los cambios
 
 Incluir repositorio remoto en Github
 > git branch -M main  (podemos dejar la branch en master y omitir este paso)
+
 > git remote add origin <link_repositorio>  (link puede ser en HTTPS o SSH)
+
 > git push -u origin main
 
 Realizar un clone de un repositorio en Github
