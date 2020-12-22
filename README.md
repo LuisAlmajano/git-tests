@@ -1,3 +1,5 @@
-# git-tests
+## git-tests
 
 Aprendiendo Git con Udemy
+
+### Instrucciones
