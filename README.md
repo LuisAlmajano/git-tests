@@ -44,6 +44,26 @@ Editar la URL del repositorio remoto para usar HTTPS o SSH:
 Referencia: https://kamarada.github.io/en/2019/07/14/using-git-with-ssh-keys/#.X-IJUuB7nyl
 
 
-### Settings Seguridad
+### Tags
 
-#### 
+Agregar tag al HEAD commit (último commit realizado)
+>  git tag -a v1.0.0 -m "Version para Prod"
+
+Agregar tag de un commit especifico al repositorio local
+>  git tag -a v0.0.1 5fa74f6 -m "Version inicial"  
+
+Enviar los tags a Github
+>  git push --tags    
+
+
+### Settings Config
+
+Abrir fichero de config de Git: 
+> git config --global -e  
+
+Crear alias para ciertos comandos:
+[alias]
+        lg = log --oneline --decorate --all --graph
+        s = status -s -b
+
+
